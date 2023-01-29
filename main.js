@@ -1,1 +1,2 @@
-console.log( a)
+//log
+console.log(a);
